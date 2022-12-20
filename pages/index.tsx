@@ -64,7 +64,7 @@ const Home: NextPage = () => {
                     />
                   </span>
                 ) : (
-                  <span>Generate</span>
+                  <span>Generate Post</span>
                 )}
               </button>
             </div>
